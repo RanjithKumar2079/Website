@@ -1,0 +1,2 @@
+To use the following website,you need to have NodeJS and MongoDB running.
+The node modules needed for the webite is in package.json
