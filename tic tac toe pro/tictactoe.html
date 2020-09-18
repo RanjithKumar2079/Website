@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tic Tac Toe</title>
+	<!-- <link rel="stylesheet" type="text/css" href="tic.css"> -->
+	<style type="text/css">
+		td{
+		width: 100px;
+		height: 100px;
+		}
+		table{
+			margin : auto;
+		}
+		.h{
+			border-top: 1px solid black;
+			border-bottom: 1px solid black;
+		}
+		.v{
+			border-left: 1px solid black;
+			border-right: 1px solid black;
+		}
+		h1{
+			text-align: center;
+			margin : 5% 35%;
+			border:5px red solid;
+			font-size: 50px;
+		}
+		.blink1{
+			color:red;
+			border:10px red solid;
+		}
+		.blink2{
+			color:blue;
+			border:10px blue solid;
+		}
+	</style>
+</head>
+<body>
+<h1><strong>TIC TAC TOE</strong></h1>
+<table>
+	<tr>
+		<td></td>
+		<td class="v"></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td class="h"></td>
+		<td class="v h"></td>
+		<td class="h"></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="v"></td>
+		<td></td>
+	</tr>
+</table>
+<script type="text/javascript" src="tic.js"></script>
+</body>
+</html>

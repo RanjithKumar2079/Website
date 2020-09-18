@@ -1,0 +1,51 @@
+body{
+	font-weight: bold;
+	font-size: 20px;
+}
+table{
+	border: 2px solid black;
+	margin : 10px auto 50px auto;
+}
+td{
+	width: 85px;
+	height: 20px;
+	text-align: center;
+}
+.t1{
+	border-bottom: 2px solid black;
+	border-right: 2px solid black;
+}
+.t2{
+	border-bottom: 2px solid black;
+}
+#p1s{
+	border-right: 2px solid black;
+}
+h1{
+	text-align: center;
+	margin : 20px auto 10px auto;
+}
+p{
+	text-align: center;
+}
+label{
+	margin-left: 44%;
+}
+input{
+	width:50px;
+}
+hr{
+	margin-top: 20px;
+	border: 2px solid red;
+	margin-bottom: 20px;
+}
+div{
+	margin:0 35% 0 44%;
+}
+button{
+	background-color: blue;
+	color: white;
+	border-radius: 20px;
+	margin-right: 5px;
+	border: 3px groove red;
+}

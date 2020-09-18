@@ -1,0 +1,29 @@
+td{
+	width: 100px;
+	height: 100px;
+}
+table{
+	margin : auto;
+}
+.h{
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+.v{
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+h1{
+	text-align: center;
+	margin : 5% 35%;
+	border:5px red solid;
+	font-size: 50px;
+}
+.blink1{
+	color:red;
+	border:10px red solid;
+}
+.blink2{
+	color:blue;
+	border:10px orange groove;
+}
