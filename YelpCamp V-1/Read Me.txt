@@ -1,2 +1,0 @@
-You need node modules to run this particular website.
-The modules and their version are listed in package.json
